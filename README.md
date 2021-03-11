@@ -12,7 +12,7 @@ of the three and display the greatest one.
 If the user entered 34, 5, 27 then the result must be: "The number 34 is the greatest"
 
 ### Components/Constructs
-Make use of the following constructs/language featres:
+Make use of the following constructs/language features:
 - ```Console.ReadLine()``` - gets input from the user
 - ```Console.WriteLine()``` - writes output to the console
 - ```int[]``` - integer array
